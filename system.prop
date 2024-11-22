@@ -1,0 +1,8 @@
+#reset prop do not put or try to change hardware value without modifying bin files
+ro.gpu.model=Adreno (TM) 730
+ro.hardware.gpuname=Adreno (TM) 730
+#exicute with vendor/bin/hardware
+#exicute with vendor/bin/gpushaders
+ro.harware.ram.type=LPPDDR5
+ro.ram.max.freq=3200 MHz
+ro.board_ram_size=high
